@@ -1,0 +1,74 @@
+[
+    {
+        "id": "1",
+        "name": "Daniel Gonzalez",
+        "year": "Senior",
+        "major": "BS in Computer Science",
+        "resp": "Full Stack Development",
+        "about": "",
+        "picture": "https://github.com/lynhvu/gamehub.github.io/blob/main/frontend/src/StyleAndImg/logo2.png?raw=true",
+        "commits": "37",
+        "issues": "7",
+        "tests": "0"
+    },
+    {
+        "id": "2",
+        "name": "Janssen Bozon",
+        "year": "Senior",
+        "major": "BS in Computer Science, Minor in Business",
+        "resp": "Full Stack Development, iOS Development",
+        "about": "",
+        "picture": "https://gitlab.com/lynhvu138/cs373-idb/-/raw/dev/src/StyleAndImg/profile-pics/janssen.JPG",
+        "commits": "14",
+        "issues": "6",
+        "tests": "3"
+    },
+    {
+        "id": "3",
+        "name": "Lauren Blummer",
+        "year": "Senior",
+        "major": "BS in Computer Science",
+        "resp": "Full Stack Development",
+        "about": "",
+        "picture": "https://www.cs.utexas.edu/users/lblummer/lauren.JPG",
+        "commits": "82",
+        "issues": "13",
+        "tests": "3"
+    },
+    {
+        "id": "4",
+        "name": "Linh Vu",
+        "year": "Junior",
+        "major": "BSA in Computer Science & Math",
+        "resp": "Project Management, Front End Development",
+        "about": "",
+        "picture": "https://github.com/lynhvu/personal-website.github.io/blob/main/img/profile.JPG?raw=true",
+        "commits": "48",
+        "issues": "20",
+        "tests": "3"
+    },
+    {
+        "id": "5",
+        "name": "Luke Lu",
+        "year": "Sophomore",
+        "major": "BS in Computer Science & Math",
+        "resp": "Full Stack Development",
+        "about": "",
+        "picture": "https://gitlab.com/lynhvu138/cs373-idb/-/raw/dev/src/StyleAndImg/profile-pics/luke.jpg",
+        "commits": "22",
+        "issues": "3",
+        "tests": "3"
+    },
+    {
+        "id": "6",
+        "name": "Michael Chan",
+        "year": "Junior",
+        "major": "BS in Computer Science",
+        "resp": "Full Stack Development",
+        "about": "",
+        "picture": "https://gitlab.com/lynhvu138/cs373-idb/-/raw/dev/src/StyleAndImg/profile-pics/michael.jpg",
+        "commits": "51",
+        "issues": "15",
+        "tests": "3"
+    }
+]

@@ -1,0 +1,595 @@
+[
+   {
+     "id": 2,
+     "name": "Valve Software",
+     "description": "Valve's debut title, Half-Life, was released in 1998. It won more than 50 game of the year awards, and PC Gamer even called it the Best PC Game Ever. Since then, we've released dozens of titles that changed the world. Today, millions of people play our games every day.",
+     "location": "United States",
+     "year": "1996",
+     "num_games": 42,
+     "genre_id": 8,
+     "img": "https://media.rawg.io/media/games/46d/46d98e6910fbc0706e2948a7cc9b10c5.jpg"
+   },
+   {
+     "id": 5,
+     "name": "Ubisoft Montreal",
+     "description": "We are the world's most important video game development studio, with 2400 dedicated employees. Ezio Auditore, Aiden Pearce, Jason Brody, they were all born and raised in Montreal. The Mile-End neighbourhood where our studio is located, is a huge source of inspiration for the worlds we create. This website is yet another way to show you who we are, why we love our jobs, and what drives us to provide heart-pounding experiences to our players year after year.",
+     "location": "Canada",
+     "year": "1997",
+     "num_games": 114,
+     "genre_id": 2,
+     "img": "https://media.rawg.io/media/games/849/849414b978db37d4563ff9e4b0d3a787.jpg"
+   },
+   {
+     "id": 9,
+     "name": "Bethesda Softworks",
+     "description": "Bethesda Softworks is an American video game publisher based in Rockville, Maryland. The company was founded by Christopher Weaver in 1986 as a division of Media Technology Limited, and in 1999 became a subsidiary of ZeniMax Media. In its first fifteen years, it was a video game developer and self-published its titles. In 2001, Bethesda spun off its own in-house development team into Bethesda Game Studios, and Bethesda Softworks became a publisher only.",
+     "location": "United States",
+     "year": "1986",
+     "num_games": 62,
+     "genre_id": 3,
+     "img": "https://media.rawg.io/media/games/a0e/a0ef08621301a1eab5e04fa5c96978fa.jpeg"
+   },
+   {
+     "id": 10,
+     "name": "SEGA",
+     "description": "As one of the leading interactive entertainment companies, SEGA cultivates creative talent worldwide with offices in America, Japan and our European HQ in London. Our acclaimed UK based studios include Sports Interactive and The Creative Assembly who are responsible for award-winning titles and iconic franchises such as Football Manager\u2122, Aliens\u2122, and the Total War\u2122 series. Hardlight, the newest UK studio in the SEGA family, are the talented team behind Sonic the Hedgehog\u2122's latest adventures on mobile platforms Sonic Jump and Sonic Dash.",
+     "location": "Japan",
+     "year": "1960",
+     "num_games": 552,
+     "genre_id": 9,
+     "img": "https://media.rawg.io/media/screenshots/ce7/ce7c9daceeb5701280e269588742b7aa.jpg"
+   },
+   {
+     "id": 12,
+     "name": "Telltale Games",
+     "description": "Telltale Inc. is an American video game developing studios founded in 2004 and closed in 2018. The company is primarily known for their episodic adventures with fameless intellectual properties first like Wallace &amp; Gromit and Sam &amp; Max. However, later on, the assembly acquired rights for The Walking Dead franchise, Borderlands series and The Game of Thrones. Thus, the commercially successful titles were published all bearing the episodic structure with the choices within the episode affecting the whole further playthrough. The graphics in the game are stylized and cartoonish and, in case of Tales of the Borderlands is matching the main series. All of the games are developed on TellTale Tool -- the gaming engine utilizing Lua programming language. The company has announced their move to Unity developing and Stranger Things title should have become the first example, but at the fourth October the developers were massively fired, and the studio has been closed as non-profitable.",
+     "location": "United States",
+     "year": "2004",
+     "num_games": 133,
+     "genre_id": 5,
+     "img": "https://media.rawg.io/media/screenshots/8f3/8f33142dd75fdd6897efc06aadbe7aab.jpg"
+   },
+   {
+     "id": 13,
+     "name": "BANDAI NAMCO Entertainment America",
+     "description": "Bandai and NAMCO have both fundamentally been entertainment companies. By combining and enhancing Bandai's expertise in character merchandizing and NAMCO's creative strengths through the new BANDAI NAMCO Entertainment, we will provide a new level of sophistication in entertainment.",
+     "location": "United States",
+     "year": "2014",
+     "num_games": 147,
+     "genre_id": 10,
+     "img": "https://media.rawg.io/media/games/8fc/8fc59e74133fd8a8a436b7e2d0fb36c2.jpg"
+   },
+   {
+     "id": 14,
+     "name": "Devolver Digital",
+     "description": "Devolver Digital is a video game developer based in America specializing on indie titles. The primary association with the company is the two-titles series Hotline Miami and Serious Sam. The latter one illustrates the role of a publisher in the game. However, without a rich developing history, the organization is principally known for facetious discomfitures and jesting gaming conferences like E3 2017 where Devolver has set the most mocking presentation, featuring no genuine announcements at all, but played out a mocking piece instead with monitor for donations chopping limbs off and &#39;Earliest Access&#39; concept obviously daring the Early Access alphas. Mentioning the risking nature of the team, the figure of Fork Parker needs to be mentioned -- he is the fictional chief financial officer and was included in games&#39; promotions and even ending titles. The joke has become viral, and Devolver listed Parker as an employee and added him in the games as an Easter egg.",
+     "location": "United States",
+     "year": "2009",
+     "num_games": 59,
+     "genre_id": 1,
+     "img": "https://media.rawg.io/media/games/948/948fe7f00b6cba8472f5ecd07a455077.jpg"
+   },
+   {
+     "id": 15,
+     "name": "2K",
+     "description": "2K publishes titles in today's most popular gaming genres, including shooters, action, role-playing, strategy, sports, casual, and family entertainment.",
+     "location": "United States",
+     "year": "2005",
+     "num_games": 59,
+     "genre_id": 13,
+     "img": "https://media.rawg.io/media/games/884/884e6a520b60aac011a38f4954303448.jpg"
+   },
+   {
+     "id": 16,
+     "name": "Capcom U.S.A",
+     "description": "Founded in 1983, the company has created hundreds of games, including groundbreaking franchises Resident Evil, Monster Hunter, Street Fighter, Mega Man, ...",
+     "location": "United States",
+     "year": "1983",
+     "num_games": 88,
+     "genre_id": 14,
+     "img": "https://media.rawg.io/media/games/65d/65d65ee902f66bdc01d8b6c3d2a0a588.jpg"
+   },
+   {
+     "id": 17,
+     "name": "THQ Nordic",
+     "description": "THQ Nordic is the new name for Nordic Games and they are working on 13 new games based on THQ properties. About THQ Nordic GmbH Founded in 2011, the Vienna/Austria based company puts great emphasis on its extensive game catalogue. The core portfolio comprises products and brands which have been acquired from various parties (THQ, Atari, and others), and further acquisitions of IPs and trademarks will follow.",
+     "location": "Austria",
+     "year": "2016",
+     "num_games": 71,
+     "genre_id": 4,
+     "img": "https://media.rawg.io/media/games/78d/78da51d43def2bc49d7c446f2421dd6e.jpg"
+   },
+   {
+     "id": 19,
+     "name": "id Software",
+     "description": "id Software is a video game development studio guided by the basic principle of making the most innovative and immersive worlds possible",
+     "location": "United States",
+     "year": "1991",
+     "num_games": 83,
+     "genre_id": 5,
+     "img": "https://media.rawg.io/media/games/c4b/c4b0cab189e73432de3a250d8cf1c84e.jpg"
+   },
+   {
+     "id": 20,
+     "name": "Gearbox Software",
+     "description": "The diverse and passionate members of the Gearbox Software team share a common identity, we feel we were made to set our time and talent towards bringing joy, fun and happiness to our customers through our craft.",
+     "location": "United States",
+     "year": "1999",
+     "num_games": 55,
+     "genre_id": 7,
+     "img": "https://media.rawg.io/media/games/9f1/9f1891779cb20f44de93cef33b067e50.jpg"
+   },
+   {
+     "id": 21,
+     "name": "Rockstar North",
+     "description": "Rockstar North was founded in 1988 under the name DMA Design, they are a British video game developer based in Scotland. They are best known for creating the Grand Theft auto franchise and Lemmings franchise.",
+     "location": "United Kingdom",
+     "year": "2002",
+     "num_games": 29,
+     "genre_id": 11,
+     "img": "https://media.rawg.io/media/screenshots/b98/b98adb52b2123a14d1c88e828a6b49f3.jpg"
+   },
+   {
+     "id": 4,
+     "name": "Sony Interactive Entertainment",
+     "description": "Sony Interactive Entertainment is the fusion of Sony Computer Entertainment and Sony Network Entertainment. The company publishes and develop first-party titles for all PlayStation platforms as well as handling design and development of PlayStation hardware.",
+     "location": "Japan",
+     "year": "2016",
+     "num_games": 619,
+     "genre_id": 2,
+     "img": "https://media.rawg.io/media/games/214/214b29aeff13a0ae6a70fc4426e85991.jpg"
+   },
+   {
+     "id": 22,
+     "name": "Bethesda Game Studios",
+     "description": "Bethesda Game Studios is an American video game developer, acting as in-house development team for parent company Bethesda Softworks, established in 2001. Previously synonymous with parent publisher Bethesda Softworks, the studio's name and logo were established with the release of The Elder Scrolls III: Morrowind in 2002. The studio is currently led by executive producer Todd Howard.",        
+     "location": "United States",
+     "year": "2001",
+     "num_games": 37,
+     "genre_id": 3,
+     "img": "https://media.rawg.io/media/screenshots/54a/54a2aefe78e4879b939649a92332eaa7.jpg"
+   },
+   {
+     "id": 1,
+     "name": "Feral Interactive",
+     "description": "We are a publishing company set up in 1996 with a mission to bring great games to the Mac. Since then, we have not only established ourselves as a world-leading publisher of Mac games but of Linux games as well. We enjoy close relationships with developers and publishers such as 2K, SEGA, Square Enix, TT Games, Codemasters, Creative Assembly, Warner Bros. Interactive Entertainment and Io-Interactive.",
+     "location": "United Kingdom",
+     "year": "1996",
+     "num_games": 106,
+     "genre_id": 4,
+     "img": "https://media.rawg.io/media/games/0fa/0fadc446fd1e9ae9e23a32793d9a5406.jpg"
+   },
+   {
+     "id": 0,
+     "name": "Ubisoft",
+     "description": "Ubisoft is a publishing and distribution company of interactive entertainment products worldwide. In 1989, Ubisoft released its first game called \u201cZombi\u201d. It produces, publishes, and distributes video games for consoles, PCs, smart phones, and tablets in physical and digital formats worldwide.",
+     "location": "France",
+     "year": "1986",
+     "num_games": 335,
+     "genre_id": 5,
+     "img": "https://media.rawg.io/media/games/c47/c4796c4c49e7e06ad328e07aa8944cdd.jpg"
+   },
+   {
+     "id": 18,
+     "name": "NVIDIA Lightspeed Studios",
+     "description": "The studio started its work in 2004 and has developed 9 games. The best project NVIDIA Lightspeed Studios has worked on is Half-Life 2. The studio's first game was Half-Life 2 which released 17 years ago.",
+     "location": "United States",
+     "year": "2004",
+     "num_games": 23,
+     "genre_id": 10,
+     "img": "https://media.rawg.io/media/screenshots/a0f/a0f898ff084625c10e7f84058325b2eb.jpg"
+   },
+   {
+     "id": 3,
+     "name": "Electronic Arts",
+     "description": "Electronic Arts is a leading global interactive entertainment software company. EA delivers games, content and online services for Internet-connected consoles, personal computers, mobile phones and tablets.",
+     "location": "United States",
+     "year": "1982",
+     "num_games": 319,
+     "genre_id": 13,
+     "img": "https://media.rawg.io/media/games/568/5689c58278e807c1574ceefb8dec026b.jpg"
+   },
+   {
+     "id": 7,
+     "name": "Capcom",
+     "description": "Capcom Co., Ltd. is a Japanese video game developer and publisher known for creating numerous multi-million selling game franchises, including Street Fighter, Mega Man, Resident Evil, Devil May Cry, Ace Attorney, Monster Hunter, Dead Rising, Breath of Fire, as well as games based on the Disney animated properties.",
+     "location": "Japan",
+     "year": "1979",
+     "num_games": 424,
+     "genre_id": 14,
+     "img": "https://media.rawg.io/media/games/65d/65d65ee902f66bdc01d8b6c3d2a0a588.jpg"
+   },
+   {
+     "id": 26,
+     "name": "Raven Software",
+     "description": "Raven Software is an American video game developer based in Madison, Wisconsin and a subsidiary of Activision. The company specializes in first-person shooters and action-adventure games. Before Activision acquired it in 1997, Raven Software was mostly known for their FPS games published by id Software; Heretic, Hexen: Beyond heretic and Hexen II. The games were mostly well-received and gained a strong following. After becoming an Activision subsidiary, Raven Software started mostly developing licensed games in such franchises as Star Track, Star Wars, X-Men the most popular of which were Marvel: Ultimate Alliance, Star Wars Jedi Knight II: Jedi Outcast, Star Wars Jedi Knight: Jedi Academy and X-Men Legends. Raven also created their original Soldier of Fortune series. In 2009 Raven Software made Wolfenstein, a long-awaited sequel to 2001 Return to Castle Wolfenstein. The next year the studio developed their original project - Singularity. Both games sold very poorly, which led Activision to make the studio a support developer for their flagship Call of Duty franchise. Raven worked on more than 10 entries in the series, but in only two of them, it was a primary developer: an exclusive Chinese Call of Duty online and a remaster of Call of Duty: Modern Warfare.",
+     "location": "United States",
+     "year": "1990",
+     "num_games": 42,
+     "genre_id": 5,
+     "img": "https://media.rawg.io/media/screenshots/620/620a4d1730f32ef9a284a23487a328ff.jpg"
+   },
+   {
+     "id": 27,
+     "name": "Codemasters",
+     "description": "Codemasters is a British video game developer and publisher founded by David Darling and his brother Richard in 1986. Headquartered in Southam, Warwickshire, Codemasters is one of the oldest British game studios, and in 2005 was named the top independent games developer by Develop magazine.",
+     "location": "United Kingdom",
+     "year": "1986",
+     "num_games": 98,
+     "genre_id": 11,
+     "img": "https://media.rawg.io/media/games/882/8820b0bc5ec9c135aca22389d105b566.jpg"
+   },
+   {
+     "id": 28,
+     "name": "CD PROJEKT RED",
+     "description": "CD Project Red is a Polish video game developer based in Warsaw and a division of CD Project S.A. The studio is as the creator of The Witcher a series of action role-playing games based on the series of fantasy novel of the same name by Polish author Andrzej Sapkowski. The first installment in the series was also the debut project for the studio. Unlike the later entries, it was published by Atari outside Poland. The game was well-received and had strong sales. Its sequel was released in 2011 and was published by CD Project themselves. In 2015 Witcher 3: The Wild Hunt came out. It became the best-received game in the series and substantial commercial success. It was included in most year-end lists of best games of 2015 by significant gaming publication and by the end of 2016 got more than 800 different awards. Aside from the main trilogy CD Project Red developed several spin-offs for the series. In May 2012, the studio announced their first game not based on The Witcher franchise an adaptation of tabletop role-playing game Cyberpunk 2020 called Cyberpunk 2077.",
+     "location": "Poland",
+     "year": "2002",
+     "num_games": 19,
+     "genre_id": 2,
+     "img": "https://media.rawg.io/media/games/c19/c193180583c34e5753a1aaf15a586761.jpg"
+   },
+   {
+     "id": 29,
+     "name": "Crystal Dynamics",
+     "description": "Crystal Dynamics is an American video game developer based in San Francisco Bay Area and a subsidiary of Square Enix. The studio is best-known for its contribution in Tomb Raider series as well as creating Legacy of Kain franchise and Gex series. Until 1996, Crystal Dynamics has mostly been developing games for the 3DO system. Its 1993 debut game Crash N' Burn was one of the console's launch titles. The 1994 Gex was supposed to be a mascot for 3DO in the same way as Sonic was a mascot for Sega's Mega Drive. Another important franchise in the studio's catalog is Legacy of Kain, a cult series of action-adventure games originally developed by Silicon Knights. In 2006 the studio finished development of Tomb Raider: Legend, a reboot of the popular action-adventure series after its original creator, Core Design, lost the IP. Since the release of Legend, the studio has been exclusively making games in this franchise.",
+     "location": "United States",
+     "year": "1992",
+     "num_games": 40,
+     "genre_id": 2,
+     "img": "https://media.rawg.io/media/games/b45/b45575f34285f2c4479c9a5f719d972e.jpg"
+   },
+   {
+     "id": 31,
+     "name": "Team17 Digital",
+     "description": "Team17 Software Ltd. is a British video game developer based in Wakefield, England. The studio developed more than 50 games and is best-known for its Worms franchise and, currently, The Escapist series. It was founded as a result of the merge of 17-bit Software publisher and Team7 development studio. Since its founding and until 1996 the studio was mostly a developer for Amiga systems. In 1991 the company developed the first installment in Alien Breed series of science fiction isometric shooters which were one of the Team17's main franchises in the 90s. In 1995 the studio's Worms came out. It was a 2D artillery tactical video game. Being a financial success, it spawned a franchise that keeps getting new entries up to this day with more than 20 games in the main series alone. As for 2017, 70 million copies of the games in the franchise were sold or downloaded worldwide.",
+     "location": "United Kingdom",
+     "year": "1990",
+     "num_games": 104,
+     "genre_id": 1,
+     "img": "https://media.rawg.io/media/games/213/2138ba3c97d02b581ca0b50805fcd49c.jpg"
+   },
+   {
+     "id": 32,
+     "name": "Deep Silver",
+     "description": "Deep Silver develops and distributes interactive games for all platforms. The Deep Silver label means to captivate all gamers who have a passion for thrilling gameplay in exciting game worlds. Deep Silver works with its partners to achieve a maximum of success while maintaining the highest possible quality, always focusing on what the customer desires.",
+     "location": "Germany",
+     "year": "2002",
+     "num_games": 35,
+     "genre_id": 2,
+     "img": "https://media.rawg.io/media/screenshots/9ab/9ab4630464e41947a2cef77b2b6263dc.jpg"
+   },
+   {
+     "id": 33,
+     "name": "FromSoftware",
+     "description": "FromSoftware, Inc. is a Japanese video game development company founded in November 1986 and a subsidiary of Kadokawa Corporation. The company is best known for their Armored Core and Souls series, including the related games Bloodborne, Sekiro, and Elden Ring.",
+     "location": "Japan",
+     "year": "1986",
+     "num_games": 65,
+     "genre_id": 0,
+     "img": "https://media.rawg.io/media/screenshots/266/26683829f852ae8ce2d32a8ea39e2d71.jpg"
+   },
+   {
+     "id": 34,
+     "name": "Digital Extremes",
+     "description": "Founded in 1993 by James Schmalz, Digital Extremes Ltd. proudly ranks as one of the world's top development studios in the interactive entertainment industry. Headquartered in London Ontario, Canada's 10th largest city, Digital Extremes got its foothold early on in the game industry during the shareware craze of the early 90s.",
+     "location": "Canada",
+     "year": "1993",
+     "num_games": 21,
+     "genre_id": 5,
+     "img": "https://media.rawg.io/media/games/7c4/7c448374df84b607f67ce9182a3a3ca7.jpg"
+   },
+   {
+     "id": 30,
+     "name": "Rockstar Games",
+     "description": "Rockstar Games, Inc. is an American video game publisher based in New York City. The company was established in December 1998 as a subsidiary of Take-Two Interactive, using the assets Take-Two had previously acquired from BMG Interactive.",
+     "location": "United States",
+     "year": "1998",
+     "num_games": 25,
+     "genre_id": 2,
+     "img": "https://media.rawg.io/media/games/686/686909717c3aa01518bc42ae2bf4259e.jpg"
+   },
+   {
+     "id": 25,
+     "name": "Naughty Dog",
+     "description": "Established in 1984, Naughty Dog is one of the most successful and prolific game development studios in the world and a flagship first-party studio within PlayStation Studios. From creating the iconic Crash Bandicoot and Jak and Daxter series to modern franchises like Uncharted and The Last of Us, Naughty Dog is responsible for some of the most critically acclaimed and commercially successful games on Sony's PlayStation platforms.",
+     "location": "United States",
+     "year": "1984",
+     "num_games": 25,
+     "genre_id": 2,
+     "img": "https://media.rawg.io/media/games/f2e/f2e6dcf9c27d99ba2551f1094ad41756.jpg"
+   },
+   {
+     "id": 37,
+     "name": "Electronic Arts DICE",
+     "description": "EA DICE is a video game developer. The name was acquired by merging video game publishing giant Electronic Arts with the Digital Illusions CE -- the developers&#39; team from Sweden. EA owns the company from 2006, and DICE is only their subsidiary since then. Generally, the merger has been productive for both studios, as DICE explicitly increased revenue after the start of Battlefield series development. Previous organization&#39;s works for MS-DOS and Windows were not of much commercial success. The interchange under the EA&#39;s wing has brought not only financial benefits but also recognition. The Battlefield, Medal of Honor and Mirror&#39;s Edge series are now solely associated with the name of DICE, and all of those game generally received a positive review. Partly, the love of the audience can be explained by technological breakthrough which is achieved by an authentic Frostibe game engine developed especially for generating real-life environment.",
+     "location": "Sweden",
+     "year": "1992",
+     "num_games": 41,
+     "genre_id": 0,
+     "img": "https://media.rawg.io/media/games/998/9980c4296f311d8bcc5b451ca51e4fe1.jpg"
+   },
+   {
+     "id": 38,
+     "name": "Firaxis",
+     "description": "Firaxis Games, Inc. is an American video game developer based in Sparks, Maryland. The company was founded in May 1996 by Sid Meier, Jeff Briggs and Brian Reynolds following their departure from MicroProse, Meier's earlier venture.",
+     "location": "United States",
+     "year": "1996",
+     "num_games": 35,
+     "genre_id": 17,
+     "img": "https://media.rawg.io/media/screenshots/405/405a97dec676c9ba97461560ed2b2e2e_5WhLVe8.jpg"
+   },
+   {
+     "id": 42,
+     "name": "Daedalic Entertainment",
+     "description": "Daedalic Entertainment is a German video game developer and a subsidiary of Bastei Lubbepublisher founded in 2007. Daedalic administers two studios: Daedalic Entertainment Studio West and Daedalic Entertainment Bavaria. Mostly, it develops game series such as Edna &amp; Harvey, Deponia, The Dark Eye, and The Whispered World, all of which are adventures. Daedalic is primarily known for its adventure games; sometimes they are mixed with genres like indie or exploration genres. Other successful games are stealths (for example, Shadow Tactics: Blades of the Shogun) or RPGs (such as Blackguards 2, which is also a part of the Dark Eye series). One of their most successful games is The Pillars of the Earth, a point-and-click adventure where the player controls one of three main characters while they travel through several areas. The Daedalic team also makes design and production, produces projects in cooperation with other studios and develops IPs for almost every platform.",
+     "location": "Germany",
+     "year": "2007",
+     "num_games": 61,
+     "genre_id": 8,
+     "img": "https://media.rawg.io/media/games/c35/c354856af9151dc63844be4f9843d2c2.jpg"
+   },
+   {
+     "id": 43,
+     "name": "LucasArts Entertainment",
+     "description": "LucasArts Entertainment Company is an American video game publisher and licensor founded in 1982, a subsidiary of LucasArts Films. It also developed video games until 2013. Then LucasArts was acquired by The Walt Disney Company. In 2013, Disney halted all internal development at LucasArts and laid off most of its staff. It is well-known for its graphic adventure games, games based on the Star Wars and Indiana Jones franchises. The first adventure game developed by Lucasfilm was Labyrinth (1986), based on the movie of the same name. Electronic Arts performed development of games based on the Star Wars franchise; most of the game from the series are shooters. Before The Disney Company bought it, LucasArts developed the Tales of Monkey Island series in joint with the Telltale Games.",
+     "location": "United States",
+     "year": "1982",
+     "num_games": 90,
+     "genre_id": 2,
+     "img": "https://media.rawg.io/media/screenshots/c7c/c7cec66d0ef731f891e413fc4c5dfa74.jpg"
+   },
+   {
+     "id": 45,
+     "name": "Double Fine Productions",
+     "description": "Double Fine Productions is an award-winning game development studio founded in 2000 by games industry veteran Tim Schafer. Located in San Francisco's South of Market district, Double Fine is committed to making high-quality games with an emphasis on originality, story, characters, and fun.",
+     "location": "United States",
+     "year": "2000",
+     "num_games": 33,
+     "genre_id": 10,
+     "img": "https://media.rawg.io/media/screenshots/854/8548a73a29d09f953344855654583c4f.jpg"
+   },
+   {
+     "id": 46,
+     "name": "2K Marin",
+     "description": "2K Marin, Inc. is an American video game developer founded in 2007. It was a spin-off coming from 2K which later on produced games like. In 2013, 2K Marin laid off all the staff, so 2K Marin is the only daughter left. After that, the spin-off worked on the series stated above. It produced BioShock 2 and The Bureau: XCOM Declassified. They are supported by almost every platform and are available as single- and multi-players. BioShock 2 is a first-person shooter, where the player performs as Jack, who travels through a dystopian universe presented as a city called Rapture. The Bureau is a third-person shooter where squad-based tactics maintain an important role. The main character is an agent William Carter who commands two additional ones in other missions. Both games aim to explore the universe, fight off enemies, collect weapons and other items, and complete missions.",
+     "location": "United States",
+     "year": "2007",
+     "num_games": 8,
+     "genre_id": 0,
+     "img": "https://media.rawg.io/media/games/4ba/4ba9b4b68ffcc7019b112174883ba4d6.jpg"
+   },
+   {
+     "id": 47,
+     "name": "Obsidian Entertainment",
+     "description": "Obsidian Entertainment is an American video game developer based in Irvine, California. Former employees of Black Isle Studios founded it. The studio is well-known for their critically acclaimed RPGs such as Pillars of Eternity series, Star Wars Knights of the Old Republic II: The Sith Lords and Fallout New Vegas. Obsidian's projects often use well-established franchises as a setting. The first two projects developed by the studio were sequels to Star Wars: Knights of the Old Republic and Neverwinter Nights. In 2014 Ubisoft released South Park: The Stick of Truth developed by Obsidian. The game was an RPG based on South Park franchise. It was a commercial success with more than 5 million copies sold worldwide in two years and was well received by critics, players, and fans of the show alike. The developer also created several games using their original IPs: Alpha Protocol, Pillars of Eternity series and Tyranny all of which were either RPGs or included role-playing elements in gameplay.",
+     "location": "United States",
+     "year": "2003",
+     "num_games": 42,
+     "genre_id": 3,
+     "img": "https://media.rawg.io/media/screenshots/558/5589158a23fd7eb2de0f2a05e48aa735.jpg"
+   },
+   {
+     "id": 48,
+     "name": "Turtle Rock Studios",
+     "description": "Turtle Rock Studios is an American video game developer founded in March 2002 by Michael Booth. It was acquired by Valve in 2008, but was re-founded in 2011 as an independent company by Phil Robb and Chris Ashton.",
+     "location": "United States",
+     "year": "2002",
+     "num_games": 13,
+     "genre_id": 5,
+     "img": "https://media.rawg.io/media/games/8bd/8bd24e3c15354a9555bb1437fe555a69.jpg"
+   },
+   {
+     "id": 44,
+     "name": "Activision",
+     "description": "For more than 30 years, Activision has been changing the way people play. In the process, we have built one of the largest portfolios of recognized brands and today we are one of the most valuable interactive entertainment companies in the world. Founded in 1979 as the first independent video game software developer and distributor, the company launched a series of multi-million unit selling titles in the early 1980s for the Atari 2600 including Pitfall, Kaboom! and River Raid. And since then, Activision has created some of the most iconic and memorable game experiences of all time.",
+     "location": "United States",
+     "year": "1979",
+     "num_games": 164,
+     "genre_id": 5,
+     "img": "https://media.rawg.io/media/games/dd4/dd43f221a21fce6eb3d27381569779d5.jpg"
+   },
+   {
+     "id": 40,
+     "name": "Relic Entertainment",
+     "description": "Relic Entertainment Inc. is a Canadian video game developer based in Vancouver, founded in 1997. The studio specializes in real-time strategy games and is known for series such as Homeworld, Warhammer 40,000: Dawn of War and Company of Heroes.",
+     "location": "Canada",
+     "year": "1997",
+     "num_games": 34,
+     "genre_id": 7,
+     "img": "https://media.rawg.io/media/games/16f/16f2f287ad8bbbd654cf76be4da52c04.jpg"
+   },
+   {
+     "id": 49,
+     "name": "Arkane Studios",
+     "description": "Arkane Studios is a French video game developer based in Lyon, France. It specializes in action role-playing games. Their debut project Arx Fatalis, despite being commercially unsuccessful, was well-received and introduced several game mechanics that would later appear in other studio's games such as linear progression with open levels that offer various ways of completion. Their next game, Dark Messiah of Might and Magic, has been initially developed as a sequel to Arx Fatalis but after Ubisoft approached the company, it was decided to tie the game with Might and Magic universe. In Arkane's new original game, Dishonored, came. The game gained a strong following was applauded by critics and had strong sales which allowed the studio to develop a sequel - Dishonored 2 as well as stand-alone expansion pack Dishonored: Death of the Outsider. The other notable Arkane's release was Prey, a 2017 first-person shooter with role-playing and stealth-action elements I which you explore a space-station infested with hostile alien species.",
+     "location": "France",
+     "year": "1999",
+     "num_games": 23,
+     "genre_id": 2,
+     "img": "https://media.rawg.io/media/screenshots/575/575ea47d1637e1e1bca20c0a8a6f9049.jpg"
+   },
+   {
+     "id": 52,
+     "name": "Avalanche Studios",
+     "description": "Avalanche Studios (also known as Fatalist Development AB) is a Swedish video game developer based in Stockholm and a subsidiary of a Danish entertainment company Nordisk Film. The company is best-known for its Just Cause series of open-world action games. The original Just Cause released in 2006 was the company's debut project. It became met mixed reception from critics and had moderate sales. In 2010, a sequel, Just Cause 2, was released. It claimed to be a project that took account of its predecessor mistakes and built upon its base. Through, the games' slow initial sales, by the February 2014 it sold more than 6 million copies worldwide. The third entry came out in 2015. Aside from Just Cause, Avalanche Studios is also known for its series of hunting simulators theHunter and 2015 action-adventure game Mad Max based on the franchise of the same name.",
+     "location": "Sweden",
+     "year": "2003",
+     "num_games": 18,
+     "genre_id": 2,
+     "img": "https://media.rawg.io/media/screenshots/cbd/cbd049c43cd1187d070c6610a998d7d3_X3NIPXx.jpg"
+   },
+   {
+     "id": 55,
+     "name": "Lucasfilm",
+     "description": "Founded by visionary filmmaker George Lucas in 1971, Lucasfilm was acquired in December 2012 by The Walt Disney Company, a leading diversified international entertainment and media enterprise with five business segments: media networks, parks and resorts, studio entertainment, consumer products and interactive.",
+     "location": "United States",
+     "year": "1971",
+     "num_games": 39,
+     "genre_id": 0,
+     "img": "https://media.rawg.io/media/screenshots/a0b/a0b890ee0b39782e43df738bac5c9336.jpg"
+   },
+   {
+     "id": 59,
+     "name": "Croteam",
+     "description": "Croteam is a Croatian video game developer founded in 1993. The company is best known for the first-person shooter series called Serious Sam (the first part released in 2001) and for a puzzle game The Talos Principle (first released in 2014). Serious Sam is a first-person shooter that was also published by Devolver Digital. The game takes place in various backgrounds, for example, 22nd-century Egypt during the alien invasion on Earth. The Talos Principle is a first-person puzzle video game released on multiple platforms. The Talos Principle is a narrative-based puzzle game, played from a first- or third-person perspective. The game features a giant mechanical man who protects Europa in Crete from pirates and invaders. The games have a single and co-op campaign modes. The first game they ever developed is Football Glory (1994), a laid-back sports game.",
+     "location": "Croatia",
+     "year": "1993",
+     "num_games": 31,
+     "genre_id": 1,
+     "img": "https://media.rawg.io/media/screenshots/96e/96efa69d237d0bcd1636c1ec69e6a2e0.jpg"
+   },
+   {
+     "id": 66,
+     "name": "Monolith Productions",
+     "description": "Monolith Productions is an American video game developer based in Kirkland, Washington. The company is most known for their action games and first-person shooter. Their first project, a first-person shooter Blood, was released in 1997, met positive review and over the time gained a strong following. The next big success for Monolith was 2000 stealth-oriented FPS The Operative: No One Lives Forever. The game was a story-driven action that mocked spy films' cliches. It gained cult status and spawned two sequels No One Lives Forever 2: A Spy in H.A.R.M.&#39;s Way and Contract J.A.C.K. The other well-received series created by Monolith is F.E.A.R. - a trilogy of horror first-person shooters that were praised for its frightening atmosphere, storyline and intense gameplay. Nowadays, Monolith Productions is mostly associated for their games in The Lord of the Rings franchise: Middle-earth: Shadow of Mordor and Middle-earth: Shadow of War.",      
+     "location": "United States",
+     "year": "1994",
+     "num_games": 30,
+     "genre_id": 5,
+     "img": "https://media.rawg.io/media/games/98d/98deaf99f06aa3d7e54e1fa69e4a9060.jpg"
+   },
+   {
+     "id": 67,
+     "name": "Ubisoft Montpellier",
+     "description": "Ubisoft Montpellier is a French video game developer and a subsidiary of Ubisoft. The company was founded in 1994; originally it was a graphics studio Ubisoft Pictures, but in 2011 it merged with several other Ubisoft-owned properties in the area; it was then renamed as Ubisoft Montpellier. The studio&#39;s best-known games are Beyond Good &amp; Evil (2003) and the Rayman (first released in 1995) series. Beyond Good &amp; Evil is an action-adventure video game available for multiple platforms. The plot follows Jade, an investigative reporter and martial artist who wants to reveal an alien conspiracy occurring worldwide. Rayman is a platformer video available across multiple platforms. The series is set in a fantastical world which features a wide range of settings. The main protagonist is Rayman, a magical being known for his courage; his goal is to save the world from numerous villains. Ubisoft Montpellier is also famous for creating the UbiArt Framework game engine.",
+     "location": "France",
+     "year": "1994",
+     "num_games": 27,
+     "genre_id": 2,
+     "img": "https://media.rawg.io/media/screenshots/70c/70c481150dad10deb3e9afadf9fe7381.jpeg"
+   },
+   {
+     "id": 72,
+     "name": "4A Games",
+     "description": "4A Games Limited is a Ukrainian video game developer based in Malta. It was founded in 2005. 4A Games is best known for developing the Metro series. The first game developed is Metro 2033, an adaptation of the novel of the same name. It was released in 2010 on the Xbox 360 and Microsoft Windows platforms. Later on, they developed Metro: Last Light, Metro 2033 Redux, Metro: Last Light Redux, and Metro Exodus. Metro 2033 is a first-person shooter where the player&#39;s goal is to survive and encounter human and mutant enemies. The protagonists live in the metro in the aftermath of the apocalypse.  ARKTIKA.1 is a first-person shooter developed exclusively for Oculus Touch. The plot occurs in the ice age in the aftermath of an apocalypse. The player aims to protect the colony of the last survivors.",       
+     "location": "Ukraine",
+     "year": "2005",
+     "num_games": 16,
+     "genre_id": 5,
+     "img": "https://media.rawg.io/media/screenshots/4cf/4cfa423ae97a712c52c780e5baee2c28.jpg"
+   },
+   {
+     "id": 74,
+     "name": "Electronic Arts Canada",
+     "description": "EA Canada is a corresponding division of Electronic Arts video game studios formerly known as EA Vancouver. It was derived from Distinctive Software Inc. and currently incorporates about 1300 employees. The developers lack independency as they only produce titles for publishing by major EA corporation. Among those games are Need for Speed: High Stakes and Medal of Honor: Heroes 2. The group, nevertheless, has later concentrated on producing motion capture effects for the titles and other computer-generated imagery. The sizes of a campus confirm the inclination towards visual production: it implements motion-capture hall and many production studios inside one structure. EA Canada is also involved in the creation of EAGL -- the exclusive EA graphical engine used primarily in Need For Speed series and some of EA sports titles. The engine is not supported since the 2011 fall.",
+     "location": "Canada",
+     "year": "1983",
+     "num_games": 141,
+     "genre_id": 13,
+     "img": "https://media.rawg.io/media/games/907/9072a603448c13e1223b53dcc8019cca.jpg"
+   },
+   {
+     "id": 75,
+     "name": "Rocksteady Studios",
+     "description": "Rocksteady Studios Limited is a British video game developer and a subsidiary of Warner Bros. Interactive Entertainment; founded in 2004. It was previously co-owned by Square Enix but is currently wholly controlled by Warner Bros. They are best known for their Batman: Arkham series. It is an action-adventure game developed published in conjunction with Eidos Interactive. It is based on the DC Comics superhero Batman who&#39;s goal is to fight his way through an asylum which Joker wants to control and to stop him from detonating bombs around Gotham. The first game Rocksteady ever released is Urban Chaos: Riot Response (2006), a first-person shooter for PlayStation and Xbox. The players control a member of the &quot;T-Zero&quot; riot squad in an unnamed American city. The aim is to defeat the police by whatever means and to rescue injured civilians coming along.",
+     "location": "United Kingdom",
+     "year": "2004",
+     "num_games": 11,
+     "genre_id": 2,
+     "img": "https://media.rawg.io/media/games/ce4/ce4b8dac56df7e0b20052033bf207372.jpg"
+   },
+   {
+     "id": 76,
+     "name": "DONTNOD Entertainment",
+     "description": "DONTNOD Entertainment is a French video game developer based in Paris best known for story-driven adventure games. The studio's debut project is 2013 action-adventure Remember Me published by Capcom. The game incorporates elements of platforming, beat em' up, and exploration. Its plot revolves around the theme of memories and manipulating them. The games gained mixed reviews and had average sales. The next Dontnod project was Life is Strange - an episodic adventure game with strong emphasis on story and characters. All six episodes of the game were released in 2015. The game became a massive success for the studio selling more than three million copies worldwide saving the company financially after the lukewarm reception of Remember Me. It gained the cult following and spawned a prequel - Life is Strange: Before the Storm and a sequel in 2018.",
+     "location": "France",
+     "year": "2008",
+     "num_games": 12,
+     "genre_id": 3,
+     "img": "https://media.rawg.io/media/games/a52/a528a337aa63c83bd649a71278bff870.jpg"
+   },
+   {
+     "id": 79,
+     "name": "Nerve Software",
+     "description": "Nerve Software, LLC is an American video game developer that was co-founded by ex-id Software employee Brandon James. Many of the original employees at Nerve were previously employed by Rogue Entertainment, another U.S.-based software company",
+     "location": "United States",
+     "year": "2001",
+     "num_games": 19,
+     "genre_id": 5,
+     "img": "https://media.rawg.io/media/games/bb0/bb04eabb272c7bd9e89e0321b5c47b86.jpg"
+   },
+   {
+     "id": 24,
+     "name": "Nintendo",
+     "description": "Nintendo is a Japanese multinational consumer electronics and video game company based in Kyoto. As a game developer, Nintendo played one of the crucial roles in establishing the game industry. It owns numerous video game franchises such as Mario, The Legend of Zelda, Metroid, Pokemon which are among the best-selling and most critically acclaimed games of all-time. The company's flagship series, Super Mario, sold more than 310 million copies worldwide. The Nintendo games are known for mostly family-friendly style and targeting a wide audience from kids and casual players to hardcore game fans. Having numerous different franchises, Nintendo has been releasing games in many various genres from arcade racing (Mario Kart), social simulation (Animal Crossing) and party games (Mario Party) to open world action-adventures (The Legend of Zelda) and multiplayer shooters (Splatoon).",
+     "location": "Japan",
+     "year": "1889",
+     "num_games": 413,
+     "genre_id": 0,
+     "img": "https://media.rawg.io/media/games/45f/45f6d31b0fcefe029e33d258a7beb6a2.jpg"
+   },
+   {
+     "id": 6,
+     "name": "Square Enix",
+     "description": "Square Enix is a video game developer based in Japan. The company has been renamed three times with it firstly being just Enix, then just square and the merged name came only afterward. The organization is 43 years old. This is also a sizeable economic corporation bearing 17 subsidiaries some of them are famous studios like Eidos Montreal. The team is principally famous for Final Fantasy series -- one of the most extended ongoing games originating in 1987 and making it to the last game in 2018; Kingdom Hearts franchise which is crossover RPG with entangled lore stretching out through the multiple games with hundreds of in-game story arcs; and even some Mario-related games. Despite being the profound (over 100 titles overall) developer, Square Enix also publishes games -- given all of the titles the company laid hands on, the list expands to a few hundred games.",
+     "location": "Japan",
+     "year": "2003",
+     "num_games": 338,
+     "genre_id": 3,
+     "img": "https://media.rawg.io/media/games/b50/b501727147644474562935f19a60134e.jpg"
+   },
+   {
+     "id": 11,
+     "name": "Warner Bros. Interactive",
+     "description": "Warner Bros. International Enterprises, or WB Games, is a video game production studio, an arm of Warner Bros. It develops, licenses and distributes entertainment content for every platform, including consoles, handhelds, and mobile phones. WB Games mostly produce titles based on DC Comics. These are action adventures like Lego Batman: The Videogame, combats like DC Universe Online, and consoles like Justice League Heroes series. Warner Bros. It is known for purchasing other small or bankrupt studios. For example, in 2009, it bought independent developer Snowblind Studios and most of the assets of Midway Games. It resulted in WB ownership to the rights to the Joust, Mortal Kombat, The Suffering, Spy Hunter and Wheelman series. In 2010, WB merged with Midway Games to form NetherRealm Studios. In 2017, it acquired Playdemic studio to make Lego games for mobiles.",
+     "location": "United States",
+     "year": "2004",
+     "num_games": 80,
+     "genre_id": 15,
+     "img": "https://media.rawg.io/media/screenshots/aad/aadf5972632dc2ccdacacaf191475c7a.jpg"
+   },
+   {
+     "id": 70,
+     "name": "tinyBuild",
+     "description": "tinyBuild Inc. is an American publisher of indie games based in Bellevue, Washington. The company was established by Alex Nichiporchik and Tom Brien in 2011 to expand Brien's game No Time to Explain into a commercial release.",
+     "location": "United States",
+     "year": "2011",
+     "num_games": 37,
+     "genre_id": 11,
+     "img": "https://media.rawg.io/media/screenshots/ebe/ebe3ff591823d6f0ae6ff13ae78ac093.jpg"
+   },
+   {
+     "id": 23,
+     "name": "Konami Digital Entertainment",
+     "description": "Konami Digital Entertainment, Inc. is an American division of Konami Holdings Corporation. It is one of the most long-playing actors in the industry 2014 being founded in 1969, the company has never stopped developing for almost half a decade. The studio is primarily known for many genre-forming titles and numerous breakthroughs in the industry. Castlevania series, for one, has developed its own genre Metroidvania with the first part taken from Metroid games. Silent Hill has set the mark for all the other third-person horror games, and Contra has formed a genre of run'n'; guns with some of its mechanics implemented in the titles released long after its initial publicity. However, the most profound impressions of Konami are spawned by Metal Gear series designed by leading game designer Hideo Kojima who has later left the company and founded Kojima Corporations. However, not all the titles were at one revolutionary as the Pro Evolution Soccer series mostly mimics its competitor FIFA.",
+     "location": "Japan",
+     "year": "1969",
+     "num_games": 443,
+     "genre_id": 18,
+     "img": "https://media.rawg.io/media/games/006/0069de15664d51d22285c18ab516a089.jpg"
+   },
+   {
+       "id": 80,
+       "name": "Mediatonic",
+       "description": "Game Dev Studio based in London / Brighton / Guildford / Leamington Spa / Madrid. Hatoful Boyfriend, Murder by Numbers, Gears POP!, Yahtzee, and Fall Guys!",
+       "location": "United Kingdom",
+       "year": "2005",
+       "num_games": 13,
+       "genre_id": 6,
+       "img": "https://media.rawg.io/media/screenshots/af7/af7ccaa5f7c2826d9f41cd0fd5c16d4d.jpg"
+   },
+
+   {
+       "id": 81,
+       "name": "Curve Digital",
+       "description": "Curve Digital is an English-based video game publisher and developer. History The company was established on December 14th, 2005. However, it began its operations in 2013 with the announcement of the company's desire to create and publish video games. It gained major attention while the developing the port of their in-home developed game, Stealth Bastard to Sony-owned platforms. In 2016, Curve Digital was purchased by The Catalis Group and reformed into Curve Digital Entertainment. Operations As of 2018, Curve Digital has 5 in-house developed and self-published titles. Most of the companies operations focus on publishing games from small independent developers like Mike Bithell, Superflat Games, and Roll7. Apart from that, there is no particular focus in the direction of the games published by Curve Digital. The most notable titles published include Stealth Bastard, Stealth Inc 2, Lone Survivor, Velocity Ultra, Thomas Was Alone, and OlliOlli.",
+       "location": "United Kingdom",
+       "year": "2005",
+       "num_games": 44,
+       "genre_id": 16,
+       "img": "https://media.rawg.io/media/screenshots/e78/e783e97d853db5b13dd2688ac07c2db5.jpg"
+   },
+
+   {
+       "id": 82,
+       "name": "Gaijin Entertainment",
+       "description": "Gaijin Entertainment is a Hungarian video game developer and publisher established in 2002 and now headquartered in Budapest. The company is mostly known for War Thunder, Crossout, Star Conflict, CRSED: F.O.A.D. and Enlisted.",
+       "location": "Hungary",
+       "year": "2002",
+       "num_games": 12,
+       "genre_id": 12,
+       "img": "https://media.rawg.io/media/screenshots/f67/f674e88a1a65754bca4498a70e511660.jpg"
+   }
+
+]
