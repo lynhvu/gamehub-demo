@@ -1,16 +1,29 @@
 {
   "files": {
-    "main.css": "/gamehub-demo/static/css/main.073c9b0a.css",
-    "main.js": "/gamehub-demo/static/js/main.dfb50e3f.js",
+    "main.css": "/gamehub-demo/static/css/main.c06906dc.css",
+    "main.js": "/gamehub-demo/static/js/main.34569572.js",
     "static/js/787.0d5cbf45.chunk.js": "/gamehub-demo/static/js/787.0d5cbf45.chunk.js",
-    "static/media/logo.svg": "/gamehub-demo/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/back.png": "/gamehub-demo/static/media/back.1250bffda399faf66643.png",
+    "static/media/postman.jpg": "/gamehub-demo/static/media/postman.5b1947358cfd243f90be.jpg",
+    "static/media/logo2.png": "/gamehub-demo/static/media/logo2.66f25b7755fefae04a43.png",
+    "static/media/rapidapi.jpg": "/gamehub-demo/static/media/rapidapi.0f55b0029a1923f7025e.jpg",
+    "static/media/homeSideText.png": "/gamehub-demo/static/media/homeSideText.f99ed1070e0cedd71bc0.png",
+    "static/media/notion.jpeg": "/gamehub-demo/static/media/notion.63a98f60480ae42f3a8c.jpeg",
+    "static/media/logosmall.png": "/gamehub-demo/static/media/logosmall.16c7e6a0eabba8a406fe.png",
+    "static/media/tests.png": "/gamehub-demo/static/media/tests.d06b871da2692b80b497.png",
+    "static/media/rawg.jpg": "/gamehub-demo/static/media/rawg.c0ec7c8f4e781e6d1646.jpg",
+    "static/media/discord.jpg": "/gamehub-demo/static/media/discord.f28b6100d236157d3c61.jpg",
+    "static/media/igdb.jpg": "/gamehub-demo/static/media/igdb.f4e5c9573b64d10dd517.jpg",
+    "static/media/gcp.jpg": "/gamehub-demo/static/media/gcp.1fe14811af1c8003f1e9.jpg",
+    "static/media/gitlab.jpg": "/gamehub-demo/static/media/gitlab.a031bedac85b0205fc41.jpg",
+    "static/media/figma.jpg": "/gamehub-demo/static/media/figma.f6d81de2de30560f5ceb.jpg",
     "index.html": "/gamehub-demo/index.html",
-    "main.073c9b0a.css.map": "/gamehub-demo/static/css/main.073c9b0a.css.map",
-    "main.dfb50e3f.js.map": "/gamehub-demo/static/js/main.dfb50e3f.js.map",
+    "main.c06906dc.css.map": "/gamehub-demo/static/css/main.c06906dc.css.map",
+    "main.34569572.js.map": "/gamehub-demo/static/js/main.34569572.js.map",
     "787.0d5cbf45.chunk.js.map": "/gamehub-demo/static/js/787.0d5cbf45.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.dfb50e3f.js"
+    "static/css/main.c06906dc.css",
+    "static/js/main.34569572.js"
   ]
 }
