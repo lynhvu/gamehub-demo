@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/gamehub-demo/static/css/main.073c9b0a.css",
+    "main.js": "/gamehub-demo/static/js/main.dfb50e3f.js",
+    "static/js/787.0d5cbf45.chunk.js": "/gamehub-demo/static/js/787.0d5cbf45.chunk.js",
+    "static/media/logo.svg": "/gamehub-demo/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/gamehub-demo/index.html",
+    "main.073c9b0a.css.map": "/gamehub-demo/static/css/main.073c9b0a.css.map",
+    "main.dfb50e3f.js.map": "/gamehub-demo/static/js/main.dfb50e3f.js.map",
+    "787.0d5cbf45.chunk.js.map": "/gamehub-demo/static/js/787.0d5cbf45.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.dfb50e3f.js"
+  ]
+}
